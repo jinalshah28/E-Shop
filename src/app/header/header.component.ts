@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./header.component.css']
 })
 export class HeaderComponent {
-slogan:any="Your one stop shop for everything";
+slogan:string="Your one stop shop for everything";
+source:string="./assets/1.jfif";
 }
